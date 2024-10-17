@@ -1,0 +1,2 @@
+# sending_dynamodb_events_to_cloudwatch_log_groups_via_eventbridge_pipes
+Demo to send DynamoDB events to CloudWatch Log Groups via EventBridge Pipes
